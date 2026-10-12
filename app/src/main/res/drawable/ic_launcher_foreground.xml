@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Viewfinder brackets (safe zone 21..87) -->
+    <!-- Top-Left bracket -->
+    <path
+        android:fillColor="#FFE8B058"
+        android:pathData="M30,30 L44,30 L44,34 L34,34 L34,44 L30,44 Z" />
+    <!-- Top-Right bracket -->
+    <path
+        android:fillColor="#FFE8B058"
+        android:pathData="M78,30 L78,44 L74,44 L74,34 L64,34 L64,30 Z" />
+    <!-- Bottom-Left bracket -->
+    <path
+        android:fillColor="#FFE8B058"
+        android:pathData="M30,78 L30,64 L34,64 L34,74 L44,74 L44,78 Z" />
+    <!-- Bottom-Right bracket -->
+    <path
+        android:fillColor="#FFE8B058"
+        android:pathData="M78,78 L64,78 L64,74 L74,74 L74,64 L78,64 Z" />
+
+    <!-- Central Cinematic Stillframe Monogram / Quill-Aperture -->
+    <!-- Stillframe aperture rectangle -->
+    <path
+        android:fillColor="#FFF5F2EB"
+        android:pathData="M40,40 L68,40 L68,43 L40,43 Z" />
+    <path
+        android:fillColor="#FFF5F2EB"
+        android:pathData="M40,65 L68,65 L68,68 L40,68 Z" />
+
+    <!-- Center quill / diamond focus mark -->
+    <path
+        android:fillColor="#FFE8B058"
+        android:pathData="M54,45 L61,54 L54,63 L47,54 Z" />
+    <path
+        android:fillColor="#FF121318"
+        android:pathData="M54,49 L58,54 L54,59 L50,54 Z" />
+    <path
+        android:fillColor="#FFF5F2EB"
+        android:pathData="M53.2,50 L54.8,50 L54.8,58 L53.2,58 Z" />
+</vector>

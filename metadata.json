@@ -1,0 +1,6 @@
+{
+  "name": "Stillframe",
+  "description": "Private, offline-first creative universe and storytelling studio with worldbuilding, screenplay & prose drafts, and editorial critique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
